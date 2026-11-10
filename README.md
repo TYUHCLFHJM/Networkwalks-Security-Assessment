@@ -94,6 +94,8 @@ whatweb https://networkwalks.com > ~/Desktop/Task2_WhatWeb.txt
 
 **Interpretation:** Technology fingerprints are useful for an asset inventory but may be inaccurate or influenced by caching, themes or detection heuristics. No CVE or vulnerable configuration is established from these results alone.
 
+
+
 ![WhatWeb HTTPS evidence](evidence/04-whatweb-https.png)
 
 ### 3. Nslookup — DNS resolution
